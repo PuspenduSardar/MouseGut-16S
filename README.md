@@ -1,8 +1,8 @@
-# Circular 16S Extractor
+# Full-length 16S Extractor
 
 ## Purpose
 
-This tool extracts full-length 16S-like regions from circular MAGs using degenerate primer pairs and BLAST-based mapping.
+This tool extracts full-length 16S-like regions from metagenome assembled genomes (MAGs) using degenerate primer pairs and BLAST-based mapping.
 
 ## Requirements
 
@@ -29,7 +29,7 @@ python scripts/4_filter_blast_hits.py
 python scripts/5_calculate_amplicons.py
 
 # Step 6: Extract amplicon sequences of required lengths
-bash scripts/6_extract_amplicon_seqs.py
+python scripts/6_extract_amplicon_seqs.py
 
 # Step 7: Remove any Ns from the fasta file (and filter for the lengths)
 python scripts/7_fasta_cleaner.py
