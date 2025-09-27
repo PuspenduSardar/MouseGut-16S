@@ -43,4 +43,4 @@ python scripts/9_fasta_modifier.py
 
 📜 License
 
-MIT License – feel free to use, modify, and share.
+MIT License
