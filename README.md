@@ -41,6 +41,6 @@ python scripts/8_generate_gtdb_taxonomy_format.py
 python scripts/9_fasta_modifier.py
 
 
-📜 License
+## 📜 License
 
 MIT License
