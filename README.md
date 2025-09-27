@@ -14,6 +14,9 @@ This tool extracts full-length 16S-like regions from metagenome assembled genome
 
 #### Step 1: Expand primers
 `bash scripts/1_0_circular_16s_extraction.sh`
+    `1_1_concatenate_contigs.py`
+    `1_2_expand_primers.py`
+    `1_3_run_blast_primers.py`
 
 #### Step 2: Subset only non-zero TSV files (optional)
 `bash scripts/2_copy_nonZero_tsvFiles.sh`
