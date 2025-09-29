@@ -1,0 +1,649 @@
+1	|	root	|	root	|	scientific name	|
+354370357	|	Bacteria	|	domain__Bacteria	|	scientific name	|
+104783951	|	Bacteroidota	|	phylum__Bacteroidota	|	scientific name	|
+108122500	|	Bacteroidia	|	class__Bacteroidia	|	scientific name	|
+115878945	|	Bacteroidales	|	order__Bacteroidales	|	scientific name	|
+824294813	|	Muribaculaceae	|	family__Muribaculaceae	|	scientific name	|
+987177788	|	UBA7173	|	genus__UBA7173	|	scientific name	|
+196203257	|	UBA7173 sp013316535	|	species__UBA7173 sp013316535	|	scientific name	|
+221563670	|	Paramuribaculum	|	genus__Paramuribaculum	|	scientific name	|
+722520184	|	Paramuribaculum sp910587185	|	species__Paramuribaculum sp910587185	|	scientific name	|
+869755696	|	Bacillota	|	phylum__Bacillota	|	scientific name	|
+263335754	|	Clostridia	|	class__Clostridia	|	scientific name	|
+265862280	|	Lachnospirales	|	order__Lachnospirales	|	scientific name	|
+578840246	|	Lachnospiraceae	|	family__Lachnospiraceae	|	scientific name	|
+303454192	|	Extibacter	|	genus__Extibacter	|	scientific name	|
+862010497	|	Extibacter muris	|	species__Extibacter muris	|	scientific name	|
+759905399	|	Bacilli	|	class__Bacilli	|	scientific name	|
+118699036	|	Lactobacillales	|	order__Lactobacillales	|	scientific name	|
+180777695	|	Lactobacillaceae	|	family__Lactobacillaceae	|	scientific name	|
+684390201	|	Limosilactobacillus	|	genus__Limosilactobacillus	|	scientific name	|
+321673010	|	Limosilactobacillus reuteri_I	|	species__Limosilactobacillus reuteri_I	|	scientific name	|
+247548000	|	Staphylococcales	|	order__Staphylococcales	|	scientific name	|
+449122131	|	Staphylococcaceae	|	family__Staphylococcaceae	|	scientific name	|
+540338117	|	Staphylococcus	|	genus__Staphylococcus	|	scientific name	|
+585327437	|	Staphylococcus nepalensis	|	species__Staphylococcus nepalensis	|	scientific name	|
+447706745	|	Staphylococcus epidermidis	|	species__Staphylococcus epidermidis	|	scientific name	|
+374619210	|	Ligilactobacillus	|	genus__Ligilactobacillus	|	scientific name	|
+593999194	|	Ligilactobacillus murinus	|	species__Ligilactobacillus murinus	|	scientific name	|
+738057970	|	CAG-274	|	family__CAG-274	|	scientific name	|
+570356825	|	MGBC114079	|	genus__MGBC114079	|	scientific name	|
+458015618	|	MGBC114079 sp910579745	|	species__MGBC114079 sp910579745	|	scientific name	|
+806675173	|	Paramuribaculum sp910578805	|	species__Paramuribaculum sp910578805	|	scientific name	|
+766224316	|	Christensenellales	|	order__Christensenellales	|	scientific name	|
+314184947	|	Borkfalkiaceae	|	family__Borkfalkiaceae	|	scientific name	|
+204484391	|	Coproplasma	|	genus__Coproplasma	|	scientific name	|
+90939290	|	Coproplasma sp003979335	|	species__Coproplasma sp003979335	|	scientific name	|
+225765588	|	Rikenellaceae	|	family__Rikenellaceae	|	scientific name	|
+869019347	|	Alistipes	|	genus__Alistipes	|	scientific name	|
+948659466	|	Alistipes sp002362235	|	species__Alistipes sp002362235	|	scientific name	|
+811782807	|	Tannerellaceae	|	family__Tannerellaceae	|	scientific name	|
+432938760	|	Parabacteroides	|	genus__Parabacteroides	|	scientific name	|
+513073846	|	Parabacteroides distasonis	|	species__Parabacteroides distasonis	|	scientific name	|
+483877610	|	Duncaniella	|	genus__Duncaniella	|	scientific name	|
+571803066	|	Duncaniella muris	|	species__Duncaniella muris	|	scientific name	|
+701476338	|	Campylobacterota	|	phylum__Campylobacterota	|	scientific name	|
+810211905	|	Campylobacteria	|	class__Campylobacteria	|	scientific name	|
+69679398	|	Campylobacterales	|	order__Campylobacterales	|	scientific name	|
+815031206	|	Helicobacteraceae	|	family__Helicobacteraceae	|	scientific name	|
+836768915	|	Helicobacter_C	|	genus__Helicobacter_C	|	scientific name	|
+416481944	|	Helicobacter_C japonicus	|	species__Helicobacter_C japonicus	|	scientific name	|
+950706727	|	Paenibacillales	|	order__Paenibacillales	|	scientific name	|
+12770	|	Paenibacillaceae	|	family__Paenibacillaceae	|	scientific name	|
+429825154	|	Paenibacillus	|	genus__Paenibacillus	|	scientific name	|
+509911453	|	Paenibacillus amylolyticus	|	species__Paenibacillus amylolyticus	|	scientific name	|
+671983514	|	UBA932	|	family__UBA932	|	scientific name	|
+132030507	|	Cryptobacteroides	|	genus__Cryptobacteroides	|	scientific name	|
+147313911	|	Cryptobacteroides sp002298075	|	species__Cryptobacteroides sp002298075	|	scientific name	|
+609454677	|	Parabacteroides goldsteinii	|	species__Parabacteroides goldsteinii	|	scientific name	|
+403586406	|	Elusimicrobiota	|	phylum__Elusimicrobiota	|	scientific name	|
+247246681	|	Elusimicrobia	|	class__Elusimicrobia	|	scientific name	|
+745029700	|	Elusimicrobiales	|	order__Elusimicrobiales	|	scientific name	|
+67137412	|	Elusimicrobiaceae	|	family__Elusimicrobiaceae	|	scientific name	|
+761664600	|	Avelusimicrobium	|	genus__Avelusimicrobium	|	scientific name	|
+374431922	|	Avelusimicrobium sp910576915	|	species__Avelusimicrobium sp910576915	|	scientific name	|
+660153839	|	UBA3700	|	family__UBA3700	|	scientific name	|
+625421423	|	MGBC101980	|	genus__MGBC101980	|	scientific name	|
+707869399	|	MGBC101980 sp910576875	|	species__MGBC101980 sp910576875	|	scientific name	|
+655103635	|	UBA3282	|	genus__UBA3282	|	scientific name	|
+860551579	|	UBA3282 sp910575245	|	species__UBA3282 sp910575245	|	scientific name	|
+865317844	|	Peptostreptococcales	|	order__Peptostreptococcales	|	scientific name	|
+629575208	|	Anaerovoracaceae	|	family__Anaerovoracaceae	|	scientific name	|
+127188654	|	Hominibacterium	|	genus__Hominibacterium	|	scientific name	|
+832767372	|	Hominibacterium sp009911365	|	species__Hominibacterium sp009911365	|	scientific name	|
+304002378	|	Peptostreptococcaceae	|	family__Peptostreptococcaceae	|	scientific name	|
+633556755	|	Paraclostridium	|	genus__Paraclostridium	|	scientific name	|
+197571575	|	Paraclostridium dentum	|	species__Paraclostridium dentum	|	scientific name	|
+126463106	|	Actinomycetota	|	phylum__Actinomycetota	|	scientific name	|
+850752097	|	Coriobacteriia	|	class__Coriobacteriia	|	scientific name	|
+469248875	|	Coriobacteriales	|	order__Coriobacteriales	|	scientific name	|
+423875116	|	Eggerthellaceae	|	family__Eggerthellaceae	|	scientific name	|
+524594679	|	Parvibacter	|	genus__Parvibacter	|	scientific name	|
+24970632	|	Parvibacter caecicola	|	species__Parvibacter caecicola	|	scientific name	|
+89251650	|	JAGBWK01	|	genus__JAGBWK01	|	scientific name	|
+364944128	|	JAGBWK01 sp001915385	|	species__JAGBWK01 sp001915385	|	scientific name	|
+485981425	|	CAG-873	|	genus__CAG-873	|	scientific name	|
+326632818	|	CAG-873 sp910577315	|	species__CAG-873 sp910577315	|	scientific name	|
+440480106	|	Coproplasma sp910577375	|	species__Coproplasma sp910577375	|	scientific name	|
+345517560	|	Clostridiales	|	order__Clostridiales	|	scientific name	|
+322546553	|	Clostridiaceae	|	family__Clostridiaceae	|	scientific name	|
+91006446	|	Clostridium_F	|	genus__Clostridium_F	|	scientific name	|
+31018740	|	Clostridium_F tepidum	|	species__Clostridium_F tepidum	|	scientific name	|
+450687598	|	Verrucomicrobiota	|	phylum__Verrucomicrobiota	|	scientific name	|
+507740721	|	Verrucomicrobiia	|	class__Verrucomicrobiia	|	scientific name	|
+795814718	|	Verrucomicrobiales	|	order__Verrucomicrobiales	|	scientific name	|
+362486526	|	Akkermansiaceae	|	family__Akkermansiaceae	|	scientific name	|
+572304967	|	Akkermansia	|	genus__Akkermansia	|	scientific name	|
+305327189	|	Akkermansia muciniphila	|	species__Akkermansia muciniphila	|	scientific name	|
+600777970	|	Erysipelotrichales	|	order__Erysipelotrichales	|	scientific name	|
+345798418	|	Coprobacillaceae	|	family__Coprobacillaceae	|	scientific name	|
+335520983	|	Longibaculum	|	genus__Longibaculum	|	scientific name	|
+960230368	|	Longibaculum muris	|	species__Longibaculum muris	|	scientific name	|
+441223447	|	Desulfobacterota_I	|	phylum__Desulfobacterota_I	|	scientific name	|
+358885841	|	Desulfovibrionia	|	class__Desulfovibrionia	|	scientific name	|
+597862665	|	Desulfovibrionales	|	order__Desulfovibrionales	|	scientific name	|
+83453802	|	Desulfovibrionaceae	|	family__Desulfovibrionaceae	|	scientific name	|
+690820621	|	Desulfovibrio	|	genus__Desulfovibrio	|	scientific name	|
+644562456	|	Desulfovibrio sp009773975	|	species__Desulfovibrio sp009773975	|	scientific name	|
+586024710	|	Fontibacillus	|	genus__Fontibacillus	|	scientific name	|
+594757499	|	Fontibacillus barengoltzii	|	species__Fontibacillus barengoltzii	|	scientific name	|
+186647608	|	Helicobacter_C hepaticus	|	species__Helicobacter_C hepaticus	|	scientific name	|
+748609668	|	Helicobacter_A	|	genus__Helicobacter_A	|	scientific name	|
+19863399	|	Helicobacter_A bilis	|	species__Helicobacter_A bilis	|	scientific name	|
+802956009	|	Helicobacter_C typhlonius	|	species__Helicobacter_C typhlonius	|	scientific name	|
+408890519	|	Enterococcaceae	|	family__Enterococcaceae	|	scientific name	|
+762823391	|	Enterococcus_D	|	genus__Enterococcus_D	|	scientific name	|
+457022566	|	Enterococcus_D gallinarum	|	species__Enterococcus_D gallinarum	|	scientific name	|
+747092186	|	Bacillales_B	|	order__Bacillales_B	|	scientific name	|
+961888936	|	DSM-18226	|	family__DSM-18226	|	scientific name	|
+25364334	|	Niallia	|	genus__Niallia	|	scientific name	|
+433363148	|	Niallia hominis	|	species__Niallia hominis	|	scientific name	|
+50451629	|	Pseudomonadota	|	phylum__Pseudomonadota	|	scientific name	|
+726657704	|	Gammaproteobacteria	|	class__Gammaproteobacteria	|	scientific name	|
+895966608	|	Enterobacterales	|	order__Enterobacterales	|	scientific name	|
+610419685	|	Enterobacteriaceae	|	family__Enterobacteriaceae	|	scientific name	|
+734825628	|	Escherichia	|	genus__Escherichia	|	scientific name	|
+347731652	|	Escherichia coli	|	species__Escherichia coli	|	scientific name	|
+208424449	|	Alistipes muris	|	species__Alistipes muris	|	scientific name	|
+551122003	|	COE1	|	genus__COE1	|	scientific name	|
+610076748	|	COE1 sp002358575	|	species__COE1 sp002358575	|	scientific name	|
+123360385	|	Cryptobacteroides sp009774765	|	species__Cryptobacteroides sp009774765	|	scientific name	|
+145811199	|	CAG-873 sp001689665	|	species__CAG-873 sp001689665	|	scientific name	|
+177097684	|	Claveliimonas	|	genus__Claveliimonas	|	scientific name	|
+765419132	|	Claveliimonas sp910574185	|	species__Claveliimonas sp910574185	|	scientific name	|
+227722413	|	Oscillospirales	|	order__Oscillospirales	|	scientific name	|
+126090378	|	Oscillospiraceae	|	family__Oscillospiraceae	|	scientific name	|
+926037068	|	Oscillibacter	|	genus__Oscillibacter	|	scientific name	|
+867655697	|	Oscillibacter sp910583785	|	species__Oscillibacter sp910583785	|	scientific name	|
+506046221	|	CAG-873 sp009775265	|	species__CAG-873 sp009775265	|	scientific name	|
+218316157	|	RF39	|	order__RF39	|	scientific name	|
+432102197	|	UBA660	|	family__UBA660	|	scientific name	|
+402345030	|	MGBC108787	|	genus__MGBC108787	|	scientific name	|
+956362829	|	MGBC108787 sp910587325	|	species__MGBC108787 sp910587325	|	scientific name	|
+908135611	|	Muribaculum	|	genus__Muribaculum	|	scientific name	|
+628297121	|	Muribaculum gordoncarteri	|	species__Muribaculum gordoncarteri	|	scientific name	|
+459726188	|	Limosilactobacillus rodentium	|	species__Limosilactobacillus rodentium	|	scientific name	|
+969136	|	Limosilactobacillus sp011958095	|	species__Limosilactobacillus sp011958095	|	scientific name	|
+223988376	|	Limosilactobacillus reuteri	|	species__Limosilactobacillus reuteri	|	scientific name	|
+730881572	|	Lactobacillus	|	genus__Lactobacillus	|	scientific name	|
+860539037	|	Lactobacillus taiwanensis	|	species__Lactobacillus taiwanensis	|	scientific name	|
+585143138	|	Limosilactobacillus caviae	|	species__Limosilactobacillus caviae	|	scientific name	|
+991751267	|	Limosilactobacillus walteri	|	species__Limosilactobacillus walteri	|	scientific name	|
+474822732	|	Lactobacillus sp910589675	|	species__Lactobacillus sp910589675	|	scientific name	|
+629910160	|	Lactobacillus rodentium	|	species__Lactobacillus rodentium	|	scientific name	|
+241177650	|	Lepagella	|	genus__Lepagella	|	scientific name	|
+335375235	|	Lepagella muris_A	|	species__Lepagella muris_A	|	scientific name	|
+542077335	|	Erysipelotrichaceae	|	family__Erysipelotrichaceae	|	scientific name	|
+586486294	|	Ileibacterium	|	genus__Ileibacterium	|	scientific name	|
+273239255	|	Ileibacterium valens	|	species__Ileibacterium valens	|	scientific name	|
+861344874	|	Caccenecus	|	genus__Caccenecus	|	scientific name	|
+427678012	|	Caccenecus sp910585045	|	species__Caccenecus sp910585045	|	scientific name	|
+787298774	|	Dubosiella	|	genus__Dubosiella	|	scientific name	|
+289251200	|	Dubosiella newyorkensis	|	species__Dubosiella newyorkensis	|	scientific name	|
+41470033	|	Acholeplasmatales	|	order__Acholeplasmatales	|	scientific name	|
+246849688	|	Anaeroplasmataceae	|	family__Anaeroplasmataceae	|	scientific name	|
+756277466	|	Pelethenecus	|	genus__Pelethenecus	|	scientific name	|
+611877593	|	Pelethenecus sp910579215	|	species__Pelethenecus sp910579215	|	scientific name	|
+146312718	|	Duncaniella sp910589485	|	species__Duncaniella sp910589485	|	scientific name	|
+480318487	|	CAG-582	|	genus__CAG-582	|	scientific name	|
+536963717	|	CAG-582 sp910588195	|	species__CAG-582 sp910588195	|	scientific name	|
+675750700	|	CAG-582 sp910587065	|	species__CAG-582 sp910587065	|	scientific name	|
+567268490	|	RUG11867	|	genus__RUG11867	|	scientific name	|
+863009822	|	RUG11867 sp910587535	|	species__RUG11867 sp910587535	|	scientific name	|
+701757723	|	Lactobacillus sp948500755	|	species__Lactobacillus sp948500755	|	scientific name	|
+859072191	|	Paramuribaculum sp910579185	|	species__Paramuribaculum sp910579185	|	scientific name	|
+165581758	|	Pumilibacteraceae	|	family__Pumilibacteraceae	|	scientific name	|
+869835389	|	Anaerocaecibacter	|	genus__Anaerocaecibacter	|	scientific name	|
+691693014	|	Anaerocaecibacter muris	|	species__Anaerocaecibacter muris	|	scientific name	|
+332878563	|	Enterococcus	|	genus__Enterococcus	|	scientific name	|
+623072690	|	Enterococcus faecalis	|	species__Enterococcus faecalis	|	scientific name	|
+586458967	|	UBA7173 sp001689485	|	species__UBA7173 sp001689485	|	scientific name	|
+588597574	|	Cryptobacteroides sp910585445	|	species__Cryptobacteroides sp910585445	|	scientific name	|
+105821949	|	Acetatifactor	|	genus__Acetatifactor	|	scientific name	|
+824558516	|	Acetatifactor sp011959105	|	species__Acetatifactor sp011959105	|	scientific name	|
+685769413	|	COE1 sp014239155	|	species__COE1 sp014239155	|	scientific name	|
+914954006	|	Ligilactobacillus animalis	|	species__Ligilactobacillus animalis	|	scientific name	|
+43139219	|	Paraclostridium sordellii	|	species__Paraclostridium sordellii	|	scientific name	|
+474123986	|	UBA5578	|	genus__UBA5578	|	scientific name	|
+289223231	|	UBA5578 sp910584165	|	species__UBA5578 sp910584165	|	scientific name	|
+296409625	|	Coprosoma	|	genus__Coprosoma	|	scientific name	|
+3963513	|	Coprosoma sp902783895	|	species__Coprosoma sp902783895	|	scientific name	|
+134467946	|	Enterococcus_C	|	genus__Enterococcus_C	|	scientific name	|
+155108575	|	Enterococcus_C asini	|	species__Enterococcus_C asini	|	scientific name	|
+646951265	|	MGBC102946	|	genus__MGBC102946	|	scientific name	|
+434252389	|	MGBC102946 sp910576985	|	species__MGBC102946 sp910576985	|	scientific name	|
+907063951	|	UBA3282 sp910575775	|	species__UBA3282 sp910575775	|	scientific name	|
+137551936	|	Duncaniella sp910577255	|	species__Duncaniella sp910577255	|	scientific name	|
+205704199	|	Desulfovibrio sp910587035	|	species__Desulfovibrio sp910587035	|	scientific name	|
+316430783	|	Staphylococcus xylosus	|	species__Staphylococcus xylosus	|	scientific name	|
+830375620	|	Staphylococcus warneri	|	species__Staphylococcus warneri	|	scientific name	|
+957275028	|	Staphylococcus pasteuri	|	species__Staphylococcus pasteuri	|	scientific name	|
+950817234	|	Chlamydiota	|	phylum__Chlamydiota	|	scientific name	|
+402703809	|	Chlamydiia	|	class__Chlamydiia	|	scientific name	|
+573189859	|	Chlamydiales	|	order__Chlamydiales	|	scientific name	|
+771725230	|	Chlamydiaceae	|	family__Chlamydiaceae	|	scientific name	|
+414058804	|	Chlamydia	|	genus__Chlamydia	|	scientific name	|
+814591760	|	Chlamydia muridarum	|	species__Chlamydia muridarum	|	scientific name	|
+722157627	|	Enterocloster	|	genus__Enterocloster	|	scientific name	|
+921070460	|	Enterocloster clostridioformis	|	species__Enterocloster clostridioformis	|	scientific name	|
+753165827	|	Atopobiaceae	|	family__Atopobiaceae	|	scientific name	|
+568981395	|	Leptogranulimonas	|	genus__Leptogranulimonas	|	scientific name	|
+250509772	|	Leptogranulimonas caecicola	|	species__Leptogranulimonas caecicola	|	scientific name	|
+785165491	|	Anaerocaecibacter sp910577945	|	species__Anaerocaecibacter sp910577945	|	scientific name	|
+925028727	|	Adlercreutzia	|	genus__Adlercreutzia	|	scientific name	|
+549167151	|	Adlercreutzia muris	|	species__Adlercreutzia muris	|	scientific name	|
+25559730	|	Lepagella sp910578385	|	species__Lepagella sp910578385	|	scientific name	|
+353784579	|	UBA7173 sp910584365	|	species__UBA7173 sp910584365	|	scientific name	|
+204354225	|	D16-63	|	genus__D16-63	|	scientific name	|
+262254297	|	D16-63 sp947564525	|	species__D16-63 sp947564525	|	scientific name	|
+902596975	|	Lawsonibacter	|	genus__Lawsonibacter	|	scientific name	|
+330957841	|	Lawsonibacter sp947383275	|	species__Lawsonibacter sp947383275	|	scientific name	|
+29175579	|	Burkholderiales	|	order__Burkholderiales	|	scientific name	|
+564314988	|	Burkholderiaceae	|	family__Burkholderiaceae	|	scientific name	|
+342858284	|	Parasutterella	|	genus__Parasutterella	|	scientific name	|
+873744785	|	Parasutterella muris	|	species__Parasutterella muris	|	scientific name	|
+455359652	|	Kineothrix	|	genus__Kineothrix	|	scientific name	|
+585822133	|	Kineothrix sp000403275	|	species__Kineothrix sp000403275	|	scientific name	|
+308820138	|	MGBC108787 sp910579535	|	species__MGBC108787 sp910579535	|	scientific name	|
+63912006	|	Desulfovibrio sp910575755	|	species__Desulfovibrio sp910575755	|	scientific name	|
+718852503	|	Chrysiogenota	|	phylum__Chrysiogenota	|	scientific name	|
+432488540	|	Deferribacteres	|	class__Deferribacteres	|	scientific name	|
+938475597	|	Deferribacterales	|	order__Deferribacterales	|	scientific name	|
+476935343	|	Mucispirillaceae	|	family__Mucispirillaceae	|	scientific name	|
+53718367	|	Mucispirillum	|	genus__Mucispirillum	|	scientific name	|
+952970869	|	Mucispirillum schaedleri	|	species__Mucispirillum schaedleri	|	scientific name	|
+428704729	|	Bacteroidaceae	|	family__Bacteroidaceae	|	scientific name	|
+438860757	|	Prevotella	|	genus__Prevotella	|	scientific name	|
+267625937	|	Prevotella intestinalis	|	species__Prevotella intestinalis	|	scientific name	|
+285508090	|	Faecalibaculum	|	genus__Faecalibaculum	|	scientific name	|
+210134413	|	Faecalibaculum rodentium	|	species__Faecalibaculum rodentium	|	scientific name	|
+705423125	|	MGBC108787 sp910583945	|	species__MGBC108787 sp910583945	|	scientific name	|
+587552215	|	MOL361	|	order__MOL361	|	scientific name	|
+938222446	|	Turicibacteraceae	|	family__Turicibacteraceae	|	scientific name	|
+246461513	|	Turicibacter	|	genus__Turicibacter	|	scientific name	|
+952547822	|	Turicibacter faecis	|	species__Turicibacter faecis	|	scientific name	|
+92163915	|	Amulumruptor	|	genus__Amulumruptor	|	scientific name	|
+43557791	|	Amulumruptor sp001689515	|	species__Amulumruptor sp001689515	|	scientific name	|
+875648744	|	Mucispirillum sp910586745	|	species__Mucispirillum sp910586745	|	scientific name	|
+176101098	|	Caccenecus sp910587745	|	species__Caccenecus sp910587745	|	scientific name	|
+655340354	|	C-19	|	genus__C-19	|	scientific name	|
+443602682	|	C-19 sp910576345	|	species__C-19 sp910576345	|	scientific name	|
+609403148	|	Eubacterium_F	|	genus__Eubacterium_F	|	scientific name	|
+319166380	|	Eubacterium_F sp910574015	|	species__Eubacterium_F sp910574015	|	scientific name	|
+104458525	|	Streptococcaceae	|	family__Streptococcaceae	|	scientific name	|
+539013594	|	Streptococcus	|	genus__Streptococcus	|	scientific name	|
+166988846	|	Streptococcus danieliae	|	species__Streptococcus danieliae	|	scientific name	|
+665577036	|	Streptococcus oralis_CP	|	species__Streptococcus oralis_CP	|	scientific name	|
+283716234	|	Xanthomonadales	|	order__Xanthomonadales	|	scientific name	|
+161958520	|	Xanthomonadaceae	|	family__Xanthomonadaceae	|	scientific name	|
+67888788	|	Stenotrophomonas	|	genus__Stenotrophomonas	|	scientific name	|
+205293910	|	Stenotrophomonas nematodicola	|	species__Stenotrophomonas nematodicola	|	scientific name	|
+332938426	|	UBA3282 sp003612405	|	species__UBA3282 sp003612405	|	scientific name	|
+588173333	|	C-53	|	genus__C-53	|	scientific name	|
+668235670	|	C-53 sp003612525	|	species__C-53 sp003612525	|	scientific name	|
+802889356	|	Taurinivorans	|	genus__Taurinivorans	|	scientific name	|
+227889304	|	Taurinivorans sp910577155	|	species__Taurinivorans sp910577155	|	scientific name	|
+706776890	|	Taurinivorans sp910578585	|	species__Taurinivorans sp910578585	|	scientific name	|
+998370999	|	Lactococcus	|	genus__Lactococcus	|	scientific name	|
+525737576	|	Lactococcus cremoris	|	species__Lactococcus cremoris	|	scientific name	|
+705770194	|	Mycoplasmatales	|	order__Mycoplasmatales	|	scientific name	|
+517528640	|	Metamycoplasmataceae	|	family__Metamycoplasmataceae	|	scientific name	|
+16045409	|	UBA710	|	genus__UBA710	|	scientific name	|
+480239878	|	UBA710 sp002298905	|	species__UBA710 sp002298905	|	scientific name	|
+825168689	|	MGBC164599	|	genus__MGBC164599	|	scientific name	|
+285228149	|	MGBC164599 sp910575625	|	species__MGBC164599 sp910575625	|	scientific name	|
+618293786	|	Suilimivivens	|	genus__Suilimivivens	|	scientific name	|
+922372197	|	Suilimivivens sp000403495	|	species__Suilimivivens sp000403495	|	scientific name	|
+413022311	|	Proteus	|	genus__Proteus	|	scientific name	|
+9865667	|	Proteus mirabilis	|	species__Proteus mirabilis	|	scientific name	|
+96886309	|	1XD8-76	|	genus__1XD8-76	|	scientific name	|
+709297101	|	1XD8-76 sp910573755	|	species__1XD8-76 sp910573755	|	scientific name	|
+505925953	|	Turicimonas	|	genus__Turicimonas	|	scientific name	|
+260678678	|	Turicimonas muris	|	species__Turicimonas muris	|	scientific name	|
+890567243	|	UBA7173 sp013316675	|	species__UBA7173 sp013316675	|	scientific name	|
+787946085	|	1XD8-76 sp003611955	|	species__1XD8-76 sp003611955	|	scientific name	|
+16769789	|	Suilimivivens intestinalis	|	species__Suilimivivens intestinalis	|	scientific name	|
+54509866	|	Lepagella sp910577585	|	species__Lepagella sp910577585	|	scientific name	|
+866677872	|	Akkermansia muciniphila_A	|	species__Akkermansia muciniphila_A	|	scientific name	|
+228507625	|	UBA7173 sp001689685	|	species__UBA7173 sp001689685	|	scientific name	|
+254403315	|	Phocaeicola	|	genus__Phocaeicola	|	scientific name	|
+661352455	|	Phocaeicola faecalis	|	species__Phocaeicola faecalis	|	scientific name	|
+818687354	|	Lepagella sp900760815	|	species__Lepagella sp900760815	|	scientific name	|
+588275308	|	Paramuribaculum sp910579675	|	species__Paramuribaculum sp910579675	|	scientific name	|
+524295578	|	Paramuribaculum sp910588065	|	species__Paramuribaculum sp910588065	|	scientific name	|
+90089862	|	Muribaculum intestinale	|	species__Muribaculum intestinale	|	scientific name	|
+323230223	|	C-19 sp009917405	|	species__C-19 sp009917405	|	scientific name	|
+704725382	|	Suilimivivens muri	|	species__Suilimivivens muri	|	scientific name	|
+613885906	|	Paramuribaculum intestinale	|	species__Paramuribaculum intestinale	|	scientific name	|
+486445667	|	COE1 sp000403335	|	species__COE1 sp000403335	|	scientific name	|
+10294907	|	Klebsiella	|	genus__Klebsiella	|	scientific name	|
+697443636	|	Klebsiella oxytoca	|	species__Klebsiella oxytoca	|	scientific name	|
+768773586	|	Clostridium_AQ	|	genus__Clostridium_AQ	|	scientific name	|
+215366143	|	Clostridium_AQ innocuum	|	species__Clostridium_AQ innocuum	|	scientific name	|
+633207385	|	Helicobacter_D	|	genus__Helicobacter_D	|	scientific name	|
+531470894	|	Helicobacter_D ganmani	|	species__Helicobacter_D ganmani	|	scientific name	|
+680759229	|	C-19 sp910576855	|	species__C-19 sp910576855	|	scientific name	|
+328222092	|	Actinomycetes	|	class__Actinomycetes	|	scientific name	|
+580164636	|	Actinomycetales	|	order__Actinomycetales	|	scientific name	|
+249809444	|	Bifidobacteriaceae	|	family__Bifidobacteriaceae	|	scientific name	|
+982327654	|	Bifidobacterium	|	genus__Bifidobacterium	|	scientific name	|
+456943786	|	Bifidobacterium animalis	|	species__Bifidobacterium animalis	|	scientific name	|
+172295472	|	UBA3282 sp003611805	|	species__UBA3282 sp003611805	|	scientific name	|
+994080369	|	Muribaculum faecis	|	species__Muribaculum faecis	|	scientific name	|
+232292986	|	Bifidobacterium globosum	|	species__Bifidobacterium globosum	|	scientific name	|
+185913102	|	CAJTFG01	|	genus__CAJTFG01	|	scientific name	|
+848738015	|	CAJTFG01 sp910575705	|	species__CAJTFG01 sp910575705	|	scientific name	|
+5387940	|	Suilimivivens sp009911035	|	species__Suilimivivens sp009911035	|	scientific name	|
+140847315	|	Duncaniella sp910584825	|	species__Duncaniella sp910584825	|	scientific name	|
+927289897	|	UBA3282 sp910577735	|	species__UBA3282 sp910577735	|	scientific name	|
+437917510	|	UBA3282 sp009774655	|	species__UBA3282 sp009774655	|	scientific name	|
+307093149	|	Lepagella sp002361215	|	species__Lepagella sp002361215	|	scientific name	|
+282281103	|	Laedolimicola	|	genus__Laedolimicola	|	scientific name	|
+784869846	|	Laedolimicola sp910574475	|	species__Laedolimicola sp910574475	|	scientific name	|
+921654251	|	Laedolimicola sp910576325	|	species__Laedolimicola sp910576325	|	scientific name	|
+962243181	|	Petralouisia	|	genus__Petralouisia	|	scientific name	|
+730840881	|	Petralouisia sp000403845	|	species__Petralouisia sp000403845	|	scientific name	|
+683894208	|	Kineothrix sp011958945	|	species__Kineothrix sp011958945	|	scientific name	|
+62827345	|	UBA3263	|	genus__UBA3263	|	scientific name	|
+785979920	|	UBA3263 sp001689615	|	species__UBA3263 sp001689615	|	scientific name	|
+742714861	|	Duncaniella sp910576785	|	species__Duncaniella sp910576785	|	scientific name	|
+895543214	|	Laedolimicola sp910574255	|	species__Laedolimicola sp910574255	|	scientific name	|
+670071645	|	CANQGL01	|	genus__CANQGL01	|	scientific name	|
+274926044	|	CANQGL01 sp910575275	|	species__CANQGL01 sp910575275	|	scientific name	|
+144978125	|	UBA7109	|	genus__UBA7109	|	scientific name	|
+962602834	|	UBA7109 sp910575605	|	species__UBA7109 sp910575605	|	scientific name	|
+809386294	|	Duncaniella dubosii	|	species__Duncaniella dubosii	|	scientific name	|
+20514359	|	Acutalibacteraceae	|	family__Acutalibacteraceae	|	scientific name	|
+923582983	|	Acutalibacter	|	genus__Acutalibacter	|	scientific name	|
+306205027	|	Acutalibacter sp009917445	|	species__Acutalibacter sp009917445	|	scientific name	|
+761779091	|	Butyribacter	|	genus__Butyribacter	|	scientific name	|
+297312424	|	Butyribacter sp009774235	|	species__Butyribacter sp009774235	|	scientific name	|
+455749437	|	Eubacterium_J	|	genus__Eubacterium_J	|	scientific name	|
+43565867	|	Eubacterium_J sp910574915	|	species__Eubacterium_J sp910574915	|	scientific name	|
+170258344	|	Muribaculum arabinoxylanisolvens	|	species__Muribaculum arabinoxylanisolvens	|	scientific name	|
+449977539	|	Schaedlerella	|	genus__Schaedlerella	|	scientific name	|
+987568835	|	Schaedlerella sp910574195	|	species__Schaedlerella sp910574195	|	scientific name	|
+896946197	|	Anaerostipes	|	genus__Anaerostipes	|	scientific name	|
+876804572	|	Anaerostipes hominis	|	species__Anaerostipes hominis	|	scientific name	|
+730999377	|	UBA2882	|	genus__UBA2882	|	scientific name	|
+750616030	|	UBA2882 sp910574745	|	species__UBA2882 sp910574745	|	scientific name	|
+980720340	|	Hominiventricola	|	genus__Hominiventricola	|	scientific name	|
+831536304	|	Hominiventricola sp009774135	|	species__Hominiventricola sp009774135	|	scientific name	|
+735731246	|	Petralouisia sp910575155	|	species__Petralouisia sp910575155	|	scientific name	|
+352787814	|	Acutalibacter intestini	|	species__Acutalibacter intestini	|	scientific name	|
+273744314	|	Roseburia_B	|	genus__Roseburia_B	|	scientific name	|
+266953986	|	Roseburia_B sp009911505	|	species__Roseburia_B sp009911505	|	scientific name	|
+369941228	|	Acutalibacter muris	|	species__Acutalibacter muris	|	scientific name	|
+486146499	|	RGIG4284	|	genus__RGIG4284	|	scientific name	|
+725922224	|	RGIG4284 sp910576205	|	species__RGIG4284 sp910576205	|	scientific name	|
+585890011	|	Lepagella muris	|	species__Lepagella muris	|	scientific name	|
+449182987	|	Eubacterium_J plexicaudatum	|	species__Eubacterium_J plexicaudatum	|	scientific name	|
+960939205	|	Petralouisia sp000403315	|	species__Petralouisia sp000403315	|	scientific name	|
+842530777	|	Acutalibacter sp003612555	|	species__Acutalibacter sp003612555	|	scientific name	|
+985293320	|	Pasteurellaceae	|	family__Pasteurellaceae	|	scientific name	|
+134153813	|	Rodentibacter	|	genus__Rodentibacter	|	scientific name	|
+767203670	|	Rodentibacter pneumotropicus	|	species__Rodentibacter pneumotropicus	|	scientific name	|
+706128479	|	Petralouisia sp009911185	|	species__Petralouisia sp009911185	|	scientific name	|
+783029079	|	Otoolea	|	genus__Otoolea	|	scientific name	|
+611741381	|	Otoolea sp009911305	|	species__Otoolea sp009911305	|	scientific name	|
+677400983	|	Acutalibacter sp947572385	|	species__Acutalibacter sp947572385	|	scientific name	|
+92329963	|	Suilimivivens sp009917455	|	species__Suilimivivens sp009917455	|	scientific name	|
+676296883	|	Acutalibacter sp009917525	|	species__Acutalibacter sp009917525	|	scientific name	|
+877066232	|	Laedolimicola sp009917555	|	species__Laedolimicola sp009917555	|	scientific name	|
+703044839	|	Actinomycetaceae	|	family__Actinomycetaceae	|	scientific name	|
+818691754	|	Actinomyces	|	genus__Actinomyces	|	scientific name	|
+317662591	|	Actinomyces capricornis	|	species__Actinomyces capricornis	|	scientific name	|
+190330284	|	Butyribacter sp910577825	|	species__Butyribacter sp910577825	|	scientific name	|
+767454914	|	Prevotella rodentium	|	species__Prevotella rodentium	|	scientific name	|
+72329331	|	Fimenecus	|	genus__Fimenecus	|	scientific name	|
+848071013	|	Fimenecus sp900540295	|	species__Fimenecus sp900540295	|	scientific name	|
+165637728	|	Roseburia_B sp910589105	|	species__Roseburia_B sp910589105	|	scientific name	|
+591249989	|	CAG-873 sp011959565	|	species__CAG-873 sp011959565	|	scientific name	|
+185687044	|	Duncaniella sp910578515	|	species__Duncaniella sp910578515	|	scientific name	|
+541651342	|	Schaedlerella sp910573785	|	species__Schaedlerella sp910573785	|	scientific name	|
+71635017	|	Schaedlerella arabinosiphila	|	species__Schaedlerella arabinosiphila	|	scientific name	|
+459227284	|	Sporofaciens	|	genus__Sporofaciens	|	scientific name	|
+53106386	|	Sporofaciens sp009774295	|	species__Sporofaciens sp009774295	|	scientific name	|
+495998896	|	Acutalibacter sp009936035	|	species__Acutalibacter sp009936035	|	scientific name	|
+720804337	|	MD308	|	genus__MD308	|	scientific name	|
+155299698	|	MD308 sp910575105	|	species__MD308 sp910575105	|	scientific name	|
+981477379	|	Eubacterium_F sp910575665	|	species__Eubacterium_F sp910575665	|	scientific name	|
+347387333	|	UBA3402	|	genus__UBA3402	|	scientific name	|
+89574362	|	UBA3402 sp910575585	|	species__UBA3402 sp910575585	|	scientific name	|
+472168627	|	Petralouisia sp000403255	|	species__Petralouisia sp000403255	|	scientific name	|
+648126696	|	Schaedlerella sp000403295	|	species__Schaedlerella sp000403295	|	scientific name	|
+714418583	|	MD308 sp000403475	|	species__MD308 sp000403475	|	scientific name	|
+564145169	|	Blautia	|	genus__Blautia	|	scientific name	|
+157640365	|	Blautia pseudococcoides	|	species__Blautia pseudococcoides	|	scientific name	|
+940754853	|	Petralouisia muris	|	species__Petralouisia muris	|	scientific name	|
+796913418	|	Butyribacter sp003612285	|	species__Butyribacter sp003612285	|	scientific name	|
+806145367	|	Tissierellales	|	order__Tissierellales	|	scientific name	|
+234788276	|	SIT17	|	family__SIT17	|	scientific name	|
+923711875	|	Anaeromonas	|	genus__Anaeromonas	|	scientific name	|
+674000797	|	Anaeromonas massiliensis_A	|	species__Anaeromonas massiliensis_A	|	scientific name	|
+404183435	|	Butyricicoccaceae	|	family__Butyricicoccaceae	|	scientific name	|
+209350729	|	QXXE01	|	genus__QXXE01	|	scientific name	|
+329103027	|	QXXE01 sp009911355	|	species__QXXE01 sp009911355	|	scientific name	|
+994662607	|	Lawsonibacter sp009911645	|	species__Lawsonibacter sp009911645	|	scientific name	|
+297699619	|	QZDW01	|	genus__QZDW01	|	scientific name	|
+920754197	|	QZDW01 sp009917545	|	species__QZDW01 sp009917545	|	scientific name	|
+983992048	|	Butyribacter sp910586555	|	species__Butyribacter sp910586555	|	scientific name	|
+896765883	|	Butyribacter sp910588655	|	species__Butyribacter sp910588655	|	scientific name	|
+386239328	|	MD308 sp010206225	|	species__MD308 sp010206225	|	scientific name	|
+451035993	|	Hominiventricola sp910575445	|	species__Hominiventricola sp910575445	|	scientific name	|
+171249060	|	Brotaphodocola	|	genus__Brotaphodocola	|	scientific name	|
+138555424	|	Brotaphodocola sp003611875	|	species__Brotaphodocola sp003611875	|	scientific name	|
+31816976	|	Petralouisia sp011960065	|	species__Petralouisia sp011960065	|	scientific name	|
+302061902	|	Schaedlerella sp910575475	|	species__Schaedlerella sp910575475	|	scientific name	|
+206638830	|	Sporofaciens sp000403455	|	species__Sporofaciens sp000403455	|	scientific name	|
+502087607	|	Flavonifractor	|	genus__Flavonifractor	|	scientific name	|
+631902378	|	Flavonifractor plautii	|	species__Flavonifractor plautii	|	scientific name	|
+166111820	|	Brotaphodocola sp009911065	|	species__Brotaphodocola sp009911065	|	scientific name	|
+308522141	|	Pseudoflavonifractor_A	|	genus__Pseudoflavonifractor_A	|	scientific name	|
+501887100	|	Pseudoflavonifractor_A sp009935845	|	species__Pseudoflavonifractor_A sp009935845	|	scientific name	|
+877397594	|	Intestinimonas	|	genus__Intestinimonas	|	scientific name	|
+993375083	|	Intestinimonas butyriciproducens	|	species__Intestinimonas butyriciproducens	|	scientific name	|
+534838054	|	UBA3282 sp009774215	|	species__UBA3282 sp009774215	|	scientific name	|
+803654580	|	UBA7173 sp002491305	|	species__UBA7173 sp002491305	|	scientific name	|
+941090222	|	MGBC113645	|	genus__MGBC113645	|	scientific name	|
+757752465	|	MGBC113645 sp910579135	|	species__MGBC113645 sp910579135	|	scientific name	|
+673509028	|	Prevotella sp002933775	|	species__Prevotella sp002933775	|	scientific name	|
+212583357	|	Sporofaciens sp910574885	|	species__Sporofaciens sp910574885	|	scientific name	|
+419817929	|	Duncaniella muricolitica	|	species__Duncaniella muricolitica	|	scientific name	|
+615821449	|	Sporofaciens sp910574715	|	species__Sporofaciens sp910574715	|	scientific name	|
+808305586	|	Enterenecus	|	genus__Enterenecus	|	scientific name	|
+135655027	|	Enterenecus sp910575695	|	species__Enterenecus sp910575695	|	scientific name	|
+177520867	|	Sporofaciens musculi	|	species__Sporofaciens musculi	|	scientific name	|
+874501605	|	Lawsonibacter sp000492175	|	species__Lawsonibacter sp000492175	|	scientific name	|
+216213120	|	Lawsonibacter sp003612335	|	species__Lawsonibacter sp003612335	|	scientific name	|
+732763280	|	Choladousia	|	genus__Choladousia	|	scientific name	|
+887795787	|	Choladousia sp003612585	|	species__Choladousia sp003612585	|	scientific name	|
+622592241	|	Eubacterium_R	|	genus__Eubacterium_R	|	scientific name	|
+520335607	|	Eubacterium_R sp011958665	|	species__Eubacterium_R sp011958665	|	scientific name	|
+635555531	|	Coproplasma sp910579525	|	species__Coproplasma sp910579525	|	scientific name	|
+905391767	|	Bacteroides	|	genus__Bacteroides	|	scientific name	|
+108234928	|	Bacteroides acidifaciens	|	species__Bacteroides acidifaciens	|	scientific name	|
+48560391	|	Prevotella sp900545525	|	species__Prevotella sp900545525	|	scientific name	|
+862010724	|	Acetatifactor sp910586835	|	species__Acetatifactor sp910586835	|	scientific name	|
+157476774	|	Enterenecus sp910588105	|	species__Enterenecus sp910588105	|	scientific name	|
+855468418	|	Enterenecus sp910588135	|	species__Enterenecus sp910588135	|	scientific name	|
+965718923	|	MGBC124762	|	genus__MGBC124762	|	scientific name	|
+350523164	|	MGBC124762 sp910579775	|	species__MGBC124762 sp910579775	|	scientific name	|
+254193701	|	Oscillibacter sp009774015	|	species__Oscillibacter sp009774015	|	scientific name	|
+891482861	|	Sporofaciens sp910575835	|	species__Sporofaciens sp910575835	|	scientific name	|
+973760178	|	Hominisplanchenecus_A	|	genus__Hominisplanchenecus_A	|	scientific name	|
+847219078	|	Hominisplanchenecus_A murintestinalis	|	species__Hominisplanchenecus_A murintestinalis	|	scientific name	|
+757411522	|	Dubosiella sp000403415	|	species__Dubosiella sp000403415	|	scientific name	|
+943941930	|	Oscillibacter sp910576865	|	species__Oscillibacter sp910576865	|	scientific name	|
+328999540	|	Rikenella	|	genus__Rikenella	|	scientific name	|
+292966985	|	Rikenella sp910577885	|	species__Rikenella sp910577885	|	scientific name	|
+80059511	|	Bacteroides intestinalis	|	species__Bacteroides intestinalis	|	scientific name	|
+276538680	|	Phocaeicola vulgatus	|	species__Phocaeicola vulgatus	|	scientific name	|
+959350882	|	Bacteroides caecimuris_A	|	species__Bacteroides caecimuris_A	|	scientific name	|
+143431214	|	Schaedlerella sp910574865	|	species__Schaedlerella sp910574865	|	scientific name	|
+415779547	|	Oscillibacter sp910575505	|	species__Oscillibacter sp910575505	|	scientific name	|
+911786959	|	Oscillibacter sp000403435	|	species__Oscillibacter sp000403435	|	scientific name	|
+688484276	|	Bacteroides thetaiotaomicron	|	species__Bacteroides thetaiotaomicron	|	scientific name	|
+665771462	|	Phocaeicola sartorii	|	species__Phocaeicola sartorii	|	scientific name	|
+247691660	|	Bacteroides ovatus	|	species__Bacteroides ovatus	|	scientific name	|
+708373659	|	Alistipes sp003979135	|	species__Alistipes sp003979135	|	scientific name	|
+290496378	|	Rikenella sp910579375	|	species__Rikenella sp910579375	|	scientific name	|
+510022790	|	Alloprevotella	|	genus__Alloprevotella	|	scientific name	|
+929497838	|	Alloprevotella sp002933955	|	species__Alloprevotella sp002933955	|	scientific name	|
+528642654	|	Alistipes timonensis	|	species__Alistipes timonensis	|	scientific name	|
+201071501	|	Alistipes sp910575495	|	species__Alistipes sp910575495	|	scientific name	|
+382559442	|	Butyribacter sp910575435	|	species__Butyribacter sp910575435	|	scientific name	|
+492434345	|	Prevotella muris_A	|	species__Prevotella muris_A	|	scientific name	|
+650081835	|	Alistipes sp009774895	|	species__Alistipes sp009774895	|	scientific name	|
+178849234	|	Lepagella sp910588245	|	species__Lepagella sp910588245	|	scientific name	|
+861499779	|	Bacteroides muris	|	species__Bacteroides muris	|	scientific name	|
+742594262	|	Bacteroides uniformis	|	species__Bacteroides uniformis	|	scientific name	|
+127954746	|	Ruminococcaceae	|	family__Ruminococcaceae	|	scientific name	|
+417030673	|	Anaerotruncus	|	genus__Anaerotruncus	|	scientific name	|
+434865835	|	Anaerotruncus sp000403395	|	species__Anaerotruncus sp000403395	|	scientific name	|
+679752199	|	Parabacteroides distasonis_A	|	species__Parabacteroides distasonis_A	|	scientific name	|
+258066697	|	Thomasclavelia	|	genus__Thomasclavelia	|	scientific name	|
+400351943	|	Thomasclavelia ramosa	|	species__Thomasclavelia ramosa	|	scientific name	|
+780599432	|	Eubacterium_R sp009774735	|	species__Eubacterium_R sp009774735	|	scientific name	|
+105938018	|	Patescibacteriota	|	phylum__Patescibacteriota	|	scientific name	|
+418125151	|	Saccharimonadia	|	class__Saccharimonadia	|	scientific name	|
+872755720	|	Saccharimonadales	|	order__Saccharimonadales	|	scientific name	|
+686894516	|	Nanosyncoccaceae	|	family__Nanosyncoccaceae	|	scientific name	|
+375561901	|	Nanosyncoccus	|	genus__Nanosyncoccus	|	scientific name	|
+866889864	|	Nanosyncoccus sp947364965	|	species__Nanosyncoccus sp947364965	|	scientific name	|
+742949118	|	Nanosyncoccus sp949101405	|	species__Nanosyncoccus sp949101405	|	scientific name	|
+16651241	|	Propionibacteriales	|	order__Propionibacteriales	|	scientific name	|
+809836675	|	Propionibacteriaceae	|	family__Propionibacteriaceae	|	scientific name	|
+514361618	|	Cutibacterium	|	genus__Cutibacterium	|	scientific name	|
+702906685	|	Cutibacterium acnes	|	species__Cutibacterium acnes	|	scientific name	|
+504699920	|	Cutibacterium modestum	|	species__Cutibacterium modestum	|	scientific name	|
+51592511	|	Bacteroides faecichinchillae	|	species__Bacteroides faecichinchillae	|	scientific name	|
+458618896	|	Anaerotruncus colihominis_A	|	species__Anaerotruncus colihominis_A	|	scientific name	|
+918533896	|	COE1 sp910588595	|	species__COE1 sp910588595	|	scientific name	|
+373303421	|	Marinifilaceae	|	family__Marinifilaceae	|	scientific name	|
+685296976	|	Odoribacter	|	genus__Odoribacter	|	scientific name	|
+46740422	|	Odoribacter sp910578105	|	species__Odoribacter sp910578105	|	scientific name	|
+666984547	|	Anaerotignaceae	|	family__Anaerotignaceae	|	scientific name	|
+439686199	|	Coprocola	|	genus__Coprocola	|	scientific name	|
+652240278	|	Coprocola sp000364165	|	species__Coprocola sp000364165	|	scientific name	|
+630094799	|	Odoribacter sp009935865	|	species__Odoribacter sp009935865	|	scientific name	|
+872063823	|	Odoribacter sp910578985	|	species__Odoribacter sp910578985	|	scientific name	|
+704054815	|	Microbacteriaceae	|	family__Microbacteriaceae	|	scientific name	|
+728427551	|	Microbacterium	|	genus__Microbacterium	|	scientific name	|
+729241361	|	Microbacterium sp003293595	|	species__Microbacterium sp003293595	|	scientific name	|
+274575516	|	RGIG8773	|	genus__RGIG8773	|	scientific name	|
+269172454	|	RGIG8773 sp910584715	|	species__RGIG8773 sp910584715	|	scientific name	|
+418869848	|	Klebsiella pneumoniae	|	species__Klebsiella pneumoniae	|	scientific name	|
+578007430	|	Cyanobacteriota	|	phylum__Cyanobacteriota	|	scientific name	|
+68277764	|	Vampirovibrionia	|	class__Vampirovibrionia	|	scientific name	|
+630761234	|	Gastranaerophilales	|	order__Gastranaerophilales	|	scientific name	|
+67090289	|	Gastranaerophilaceae	|	family__Gastranaerophilaceae	|	scientific name	|
+53646043	|	MGBC122484	|	genus__MGBC122484	|	scientific name	|
+909657044	|	MGBC122484 sp910577395	|	species__MGBC122484 sp910577395	|	scientific name	|
+520964932	|	MGBC122484 sp910586855	|	species__MGBC122484 sp910586855	|	scientific name	|
+548228177	|	MGBC122484 sp910587245	|	species__MGBC122484 sp910587245	|	scientific name	|
+80846893	|	Amulumruptor sp900539915	|	species__Amulumruptor sp900539915	|	scientific name	|
+205858116	|	Stercorousia	|	genus__Stercorousia	|	scientific name	|
+860761321	|	Stercorousia sp910588555	|	species__Stercorousia sp910588555	|	scientific name	|
+458278910	|	Granulimonas	|	genus__Granulimonas	|	scientific name	|
+575851172	|	Granulimonas faecalis	|	species__Granulimonas faecalis	|	scientific name	|
+375051761	|	Bacillales	|	order__Bacillales	|	scientific name	|
+569290936	|	Bacillaceae_G	|	family__Bacillaceae_G	|	scientific name	|
+151841232	|	Bacillus_A	|	genus__Bacillus_A	|	scientific name	|
+560029220	|	Bacillus_A cereus	|	species__Bacillus_A cereus	|	scientific name	|
+232355192	|	MGBC120929	|	genus__MGBC120929	|	scientific name	|
+938806449	|	MGBC120929 sp910583735	|	species__MGBC120929 sp910583735	|	scientific name	|
+820038039	|	Hominibacterium sp910575405	|	species__Hominibacterium sp910575405	|	scientific name	|
+742241684	|	Gallimonas	|	genus__Gallimonas	|	scientific name	|
+325801278	|	Gallimonas sp910586985	|	species__Gallimonas sp910586985	|	scientific name	|
+249443460	|	Spirochaetota	|	phylum__Spirochaetota	|	scientific name	|
+748093533	|	Spirochaetia	|	class__Spirochaetia	|	scientific name	|
+505052365	|	Treponematales	|	order__Treponematales	|	scientific name	|
+934557358	|	Treponemataceae	|	family__Treponemataceae	|	scientific name	|
+192034089	|	Treponema_D	|	genus__Treponema_D	|	scientific name	|
+717491696	|	Treponema_D sp910584475	|	species__Treponema_D sp910584475	|	scientific name	|
+880319265	|	Gallimonas sp910588615	|	species__Gallimonas sp910588615	|	scientific name	|
+298234661	|	Gallimonas sp910578065	|	species__Gallimonas sp910578065	|	scientific name	|
+493371680	|	Emergencia	|	genus__Emergencia	|	scientific name	|
+551425269	|	Emergencia intestinalis	|	species__Emergencia intestinalis	|	scientific name	|
+114647931	|	Pelethenecus sp900540705	|	species__Pelethenecus sp900540705	|	scientific name	|
+844986113	|	Fimisoma	|	genus__Fimisoma	|	scientific name	|
+509808212	|	Fimisoma sp910588185	|	species__Fimisoma sp910588185	|	scientific name	|
+971554919	|	Anaerotruncus sp003612625	|	species__Anaerotruncus sp003612625	|	scientific name	|
+711366896	|	CAG-917	|	family__CAG-917	|	scientific name	|
+464538070	|	CAG-475	|	genus__CAG-475	|	scientific name	|
+559682594	|	CAG-475 sp910577815	|	species__CAG-475 sp910577815	|	scientific name	|
+669113453	|	Brachyspiria	|	class__Brachyspiria	|	scientific name	|
+478115074	|	Brachyspirales	|	order__Brachyspirales	|	scientific name	|
+876459850	|	Brachyspiraceae	|	family__Brachyspiraceae	|	scientific name	|
+396866673	|	Brachyspira	|	genus__Brachyspira	|	scientific name	|
+964071990	|	Brachyspira sp910578695	|	species__Brachyspira sp910578695	|	scientific name	|
+286057179	|	Pelethomonas	|	genus__Pelethomonas	|	scientific name	|
+71304315	|	Pelethomonas sp910587645	|	species__Pelethomonas sp910587645	|	scientific name	|
+872881653	|	Brachyspira sp910588665	|	species__Brachyspira sp910588665	|	scientific name	|
+48175324	|	Adlercreutzia caecimuris	|	species__Adlercreutzia caecimuris	|	scientific name	|
+844676915	|	Mycoplasmoidaceae	|	family__Mycoplasmoidaceae	|	scientific name	|
+155845640	|	Ureaplasma	|	genus__Ureaplasma	|	scientific name	|
+290498596	|	Ureaplasma sp910589685	|	species__Ureaplasma sp910589685	|	scientific name	|
+999352995	|	Anaerocaecibacter sp910577995	|	species__Anaerocaecibacter sp910577995	|	scientific name	|
+122701528	|	Anaerocaecibacter sp910586925	|	species__Anaerocaecibacter sp910586925	|	scientific name	|
+876683997	|	Acetatifactor sp910579755	|	species__Acetatifactor sp910579755	|	scientific name	|
+863413258	|	Eubacterium_G	|	genus__Eubacterium_G	|	scientific name	|
+711798450	|	Eubacterium_G sp910574895	|	species__Eubacterium_G sp910574895	|	scientific name	|
+337688452	|	Duncaniella sp910577335	|	species__Duncaniella sp910577335	|	scientific name	|
+821747601	|	MGBC105563	|	genus__MGBC105563	|	scientific name	|
+565968315	|	MGBC105563 sp910579165	|	species__MGBC105563 sp910579165	|	scientific name	|
+646837669	|	COE1 sp949066965	|	species__COE1 sp949066965	|	scientific name	|
+422912448	|	RACS-045	|	genus__RACS-045	|	scientific name	|
+553618026	|	RACS-045 sp910584635	|	species__RACS-045 sp910584635	|	scientific name	|
+700410423	|	RACS-045 sp910579785	|	species__RACS-045 sp910579785	|	scientific name	|
+243500449	|	Malacoplasma_A	|	genus__Malacoplasma_A	|	scientific name	|
+150121200	|	Malacoplasma_A sp949422915	|	species__Malacoplasma_A sp949422915	|	scientific name	|
+517603532	|	Malacoplasma_A sp949517355	|	species__Malacoplasma_A sp949517355	|	scientific name	|
+555858081	|	Porcipelethomonas	|	genus__Porcipelethomonas	|	scientific name	|
+913489522	|	Porcipelethomonas sp910588145	|	species__Porcipelethomonas sp910588145	|	scientific name	|
+742473264	|	CAG-314	|	family__CAG-314	|	scientific name	|
+744865359	|	Fimimonas	|	genus__Fimimonas	|	scientific name	|
+2355036	|	Fimimonas sp910586625	|	species__Fimimonas sp910586625	|	scientific name	|
+729918933	|	MGBC100798	|	genus__MGBC100798	|	scientific name	|
+968575174	|	MGBC100798 sp910584975	|	species__MGBC100798 sp910584975	|	scientific name	|
+532769139	|	MGBC161649	|	genus__MGBC161649	|	scientific name	|
+153684529	|	MGBC161649 sp910587685	|	species__MGBC161649 sp910587685	|	scientific name	|
+398308010	|	Enterorhabdus	|	genus__Enterorhabdus	|	scientific name	|
+864924428	|	Enterorhabdus sp009911695	|	species__Enterorhabdus sp009911695	|	scientific name	|
+15916262	|	Clostridium	|	genus__Clostridium	|	scientific name	|
+755229761	|	Clostridium chromiireducens	|	species__Clostridium chromiireducens	|	scientific name	|
+613758159	|	RACS-045 sp013316135	|	species__RACS-045 sp013316135	|	scientific name	|
+19922342	|	RACS-045 sp910588015	|	species__RACS-045 sp910588015	|	scientific name	|
+33788519	|	MGBC163016	|	genus__MGBC163016	|	scientific name	|
+963192206	|	MGBC163016 sp910588905	|	species__MGBC163016 sp910588905	|	scientific name	|
+702740074	|	Xiamenia	|	genus__Xiamenia	|	scientific name	|
+86798545	|	Xiamenia aquisgranensis	|	species__Xiamenia aquisgranensis	|	scientific name	|
+775227915	|	Coproplasma sp910583855	|	species__Coproplasma sp910583855	|	scientific name	|
+985403668	|	MGBC163016 sp910589125	|	species__MGBC163016 sp910589125	|	scientific name	|
+316359930	|	Adlercreutzia mucosicola	|	species__Adlercreutzia mucosicola	|	scientific name	|
+935657888	|	MGBC100798 sp910588545	|	species__MGBC100798 sp910588545	|	scientific name	|
+925768236	|	Gallimonas sp910586655	|	species__Gallimonas sp910586655	|	scientific name	|
+334827283	|	Ruminiclostridium_E	|	genus__Ruminiclostridium_E	|	scientific name	|
+243363615	|	Ruminiclostridium_E sp910585505	|	species__Ruminiclostridium_E sp910585505	|	scientific name	|
+701731903	|	MGBC157735	|	genus__MGBC157735	|	scientific name	|
+226742077	|	MGBC157735 sp910588155	|	species__MGBC157735 sp910588155	|	scientific name	|
+587662919	|	Pelethenecus sp910584005	|	species__Pelethenecus sp910584005	|	scientific name	|
+603744667	|	Paramuribaculum sp910586895	|	species__Paramuribaculum sp910586895	|	scientific name	|
+39604850	|	Coprocola sp910575055	|	species__Coprocola sp910575055	|	scientific name	|
+77335159	|	Citrobacter_A	|	genus__Citrobacter_A	|	scientific name	|
+326391588	|	Citrobacter_A rodentium	|	species__Citrobacter_A rodentium	|	scientific name	|
+522679124	|	Alphaproteobacteria	|	class__Alphaproteobacteria	|	scientific name	|
+834003964	|	RF32	|	order__RF32	|	scientific name	|
+61965033	|	CAG-239	|	family__CAG-239	|	scientific name	|
+313540816	|	MGBC118957	|	genus__MGBC118957	|	scientific name	|
+71257343	|	MGBC118957 sp910584385	|	species__MGBC118957 sp910584385	|	scientific name	|
+333546221	|	Pumilibacter	|	genus__Pumilibacter	|	scientific name	|
+725544499	|	Pumilibacter sp910587595	|	species__Pumilibacter sp910587595	|	scientific name	|
+205508164	|	MGBC157735 sp910585955	|	species__MGBC157735 sp910585955	|	scientific name	|
+626057344	|	Pelethenecus sp910577745	|	species__Pelethenecus sp910577745	|	scientific name	|
+144347895	|	Coproplasma sp949878495	|	species__Coproplasma sp949878495	|	scientific name	|
+790487279	|	Gallimonas sp910585595	|	species__Gallimonas sp910585595	|	scientific name	|
+684619096	|	UBA3282 sp009774175	|	species__UBA3282 sp009774175	|	scientific name	|
+991989260	|	Coproplasma sp910579585	|	species__Coproplasma sp910579585	|	scientific name	|
+793872367	|	Scatocola	|	genus__Scatocola	|	scientific name	|
+793414862	|	Scatocola sp910577205	|	species__Scatocola sp910577205	|	scientific name	|
+66553554	|	Coproplasma sp910578765	|	species__Coproplasma sp910578765	|	scientific name	|
+398885381	|	Coproplasma sp013316055	|	species__Coproplasma sp013316055	|	scientific name	|
+737136508	|	Coproplasma sp910577555	|	species__Coproplasma sp910577555	|	scientific name	|
+735916162	|	Coproplasma sp910578565	|	species__Coproplasma sp910578565	|	scientific name	|
+17208666	|	COE1 sp910579275	|	species__COE1 sp910579275	|	scientific name	|
+776372325	|	Coproplasma sp910578195	|	species__Coproplasma sp910578195	|	scientific name	|
+168790499	|	Coproplasma sp910586065	|	species__Coproplasma sp910586065	|	scientific name	|
+52190929	|	UBA3402 sp910574345	|	species__UBA3402 sp910574345	|	scientific name	|
+864079496	|	Sphingomonadales	|	order__Sphingomonadales	|	scientific name	|
+195670254	|	Sphingomonadaceae	|	family__Sphingomonadaceae	|	scientific name	|
+251901437	|	Sphingomonas	|	genus__Sphingomonas	|	scientific name	|
+495421372	|	Sphingomonas panaciterrae	|	species__Sphingomonas panaciterrae	|	scientific name	|
+651756766	|	Clostridium sp015550425	|	species__Clostridium sp015550425	|	scientific name	|
+30647490	|	Petralouisia sp910575005	|	species__Petralouisia sp910575005	|	scientific name	|
+23221036	|	Petralouisia sp910575035	|	species__Petralouisia sp910575035	|	scientific name	|
+654567501	|	Coprocola sp910587735	|	species__Coprocola sp910587735	|	scientific name	|
+77191540	|	Petralouisia sp910576385	|	species__Petralouisia sp910576385	|	scientific name	|
+955069729	|	Eubacterium_R sp910577215	|	species__Eubacterium_R sp910577215	|	scientific name	|
+631072106	|	UBA7173 sp910586565	|	species__UBA7173 sp910586565	|	scientific name	|
