@@ -33,11 +33,6 @@ This tool extracts full-length 16S-like regions from metagenome assembled genome
 #### Step 7: Remove any Ns from the fasta file (and filter for the lengths)
 `python scripts/7_fasta_cleaner.py`
 
-#### Step 8: Generate GTDB taxonomy format files from a given table of SeqID and Taxonomy
-`python scripts/8_generate_gtdb_taxonomy_format.py`
-
-#### Step 9: Replace fasta headers of a multi-fasta file to match GTDB format
-`python scripts/9_fasta_modifier.py`
 
 
 ### 📜 License
